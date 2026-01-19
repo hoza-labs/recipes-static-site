@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://recipes.hoza.us/sitemap-stylesheet-for-sitemap.xsl?template=sitemap-index"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd">
+  <sitemap>
+    <loc>https://recipes.hoza.us/page-sitemap.xml</loc>
+    <lastmod>2010-08-29T03:56:20+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://recipes.hoza.us/post-sitemap.xml</loc>
+    <lastmod>2014-01-08T03:44:15+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://recipes.hoza.us/category-sitemap.xml</loc>
+    <lastmod>2014-01-08T03:44:15+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://recipes.hoza.us/author-sitemap.xml</loc>
+    <lastmod>2014-01-08T03:44:15+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://recipes.hoza.us/archive-sitemap.xml</loc>
+    <lastmod>2014-01-08T03:22:13+00:00</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://recipes.hoza.us/image-sitemap.xml</loc>
+    <lastmod>2026-01-19T09:09:59+00:00</lastmod>
+  </sitemap>
+</sitemapindex>

@@ -1,0 +1,18 @@
+/*
+Theme Name: Aesthete Recipes
+Theme URI: https://example.com/aesthete-recipes
+Description: Dervied from Aesthete; modified to work for static site.
+Author: Bradley Hoza
+Template: aesthete
+Version: 1.0.0
+*/
+
+/* we choose to just hide "💬 Comments Off" instead of copy-paste-modifying 
+   several files from ../aesthete/*.php: archive, category, index, comment-template,
+   all of which generate HTML that embeds the output of the comments_popup_link()
+   function.
+*/
+.post .comments {
+    background: none;
+    display: none;
+}

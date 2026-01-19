@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://recipes.hoza.us/sitemap-stylesheet-for-inner-sitemap.xsl?template=inner-sitemap"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://recipes.hoza.us/</loc>
+    <lastmod>2010-08-29T03:56:20+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://recipes.hoza.us/recipes/</loc>
+    <lastmod>2010-06-26T16:01:45+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

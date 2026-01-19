@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://recipes.hoza.us/sitemap-stylesheet-for-image-sitemap.xsl?template=image-sitemap"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://recipes.hoza.us/</loc>
+    <image:image>
+      <image:loc>https://recipes.hoza.us/wp-content/uploads/2010/06/Granola-bar-chocolate-chip-and-cinnamon-662.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
