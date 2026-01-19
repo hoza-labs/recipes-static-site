@@ -39,7 +39,7 @@
 					<h1>Image Sitemap</h1>
 									</div>
 				<div class="top-content">
-					<a href="http://local.recipes-wordpress-site.com/sitemap.xml">&#8592; Sitemap Index</a>				</div>
+					<a href="https://recipes.hoza.us/sitemap.xml">&#8592; Sitemap Index</a>				</div>
 				<table>
 	<tr>
 		<th>#</th>
